@@ -1,1 +1,1 @@
-this is both exercise 9 and 10(blog-api)
+this is both exercise 8 and 9(blog-api)
